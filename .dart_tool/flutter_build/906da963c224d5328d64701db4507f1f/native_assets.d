@@ -1,0 +1,1 @@
+ /Users/semiralharbi/Flutter-projects/recrutment_it_solutions_management_international_pte/.dart_tool/flutter_build/906da963c224d5328d64701db4507f1f/native_assets.yaml: 

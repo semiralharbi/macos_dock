@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/recrutment_it_solutions_management_international_pte.iml" filepath="$PROJECT_DIR$/recrutment_it_solutions_management_international_pte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/recrutment_it_solutions_management_international_pte_android.iml" filepath="$PROJECT_DIR$/android/recrutment_it_solutions_management_international_pte_android.iml" />
+    </modules>
+  </component>
+</project>
