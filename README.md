@@ -1,7 +1,7 @@
 # recrutment_it_solutions_management_international_pte
 
-A new Flutter project.
-
+[Project hosted on GHPages
+](https://semiralharbi.github.io/macos_dock/)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
